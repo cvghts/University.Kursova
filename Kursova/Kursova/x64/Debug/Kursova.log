@@ -1,5 +1,0 @@
-﻿  Kursova.cpp
-C:\Users\Наташа\Desktop\Курсова робота\Kursova\Kursova\Kursova.cpp(73,12): warning C4101: j: неиспользованная локальная переменная
-C:\Users\Наташа\Desktop\Курсова робота\Kursova\Kursova\Kursova.cpp(73,9): warning C4101: i: неиспользованная локальная переменная
-C:\Users\Наташа\Desktop\Курсова робота\Kursova\Kursova\Kursova.cpp(220,22): warning C4267: +=: преобразование из "size_t" в "int"; возможна потеря данных
-  Kursova.vcxproj -> C:\Users\Наташа\Desktop\Курсова робота\Kursova\x64\Debug\Kursova.exe
